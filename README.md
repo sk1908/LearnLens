@@ -87,9 +87,9 @@ LearnLens/
 
 ## 👥 Team
 
-- **[Name]** — Frontend Development
-- **[Name]** — Backend + ML Engineering
-- **[Name]** — UI/UX Design + ML
+- Karthik
+- Neeraj
+- Aniket
 
 ## 📝 License
 
